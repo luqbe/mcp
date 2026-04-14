@@ -1,0 +1,482 @@
+[
+    {
+        "id": 1,
+        "name": "Chicken Tikka Masala",
+        "calories": 450,
+        "prep_time_mins": 45,
+        "ingredients": [
+            "500g Boneless chicken",
+            "1 cup Yogurt",
+            "2 tbsp Tikka masala paste",
+            "1 Onion, diced",
+            "400g Tomato puree",
+            "1/2 cup Heavy cream",
+            "2 tbsp Garam masala",
+            "1 tbsp Ginger garlic paste"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Palak Paneer",
+        "calories": 320,
+        "prep_time_mins": 30,
+        "ingredients": [
+            "250g Paneer cubes",
+            "500g Spinach (Palak)",
+            "1 Onion, chopped",
+            "2 Tomatoes, pureed",
+            "1 tbsp Cumin seeds",
+            "1 tsp Turmeric",
+            "2 tbsp Fresh cream",
+            "1 tbsp Garam masala"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Chana Masala",
+        "calories": 280,
+        "prep_time_mins": 25,
+        "ingredients": [
+            "2 cups Chickpeas (cooked)",
+            "2 Onions, finely chopped",
+            "2 Tomatoes, chopped",
+            "1 tbsp Ginger garlic paste",
+            "2 tsp Chana masala powder",
+            "1 tsp Coriander powder",
+            "1/2 tsp Chili powder",
+            "Fresh cilantro"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Butter Chicken",
+        "calories": 550,
+        "prep_time_mins": 50,
+        "ingredients": [
+            "500g Chicken breast",
+            "3 tbsp Butter",
+            "1 cup Tomato puree",
+            "1/2 cup Heavy cream",
+            "1 tbsp Kasuri methi (Dried fenugreek)",
+            "1 tbsp Ginger garlic paste",
+            "1 tsp Turmeric",
+            "1 tsp Red chili powder"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Aloo Gobi",
+        "calories": 220,
+        "prep_time_mins": 25,
+        "ingredients": [
+            "1 medium Cauliflower (Gobi)",
+            "2 large Potatoes (Aloo)",
+            "1 Onion, sliced",
+            "1 Tomato, chopped",
+            "1 tsp Cumin seeds",
+            "1 tsp Turmeric",
+            "1/2 tsp Garam masala",
+            "2 tbsp Oil"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Dal Makhani",
+        "calories": 380,
+        "prep_time_mins": 60,
+        "ingredients": [
+            "1 cup Whole black lentils (Urad dal)",
+            "1/4 cup Kidney beans (Rajma)",
+            "3 tbsp Butter",
+            "1/2 cup Tomato puree",
+            "1/4 cup Heavy cream",
+            "1 tbsp Ginger garlic paste",
+            "1 tsp Garam masala",
+            "Salt to taste"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Chicken Biryani",
+        "calories": 600,
+        "prep_time_mins": 75,
+        "ingredients": [
+            "500g Basmati rice",
+            "500g Chicken, bone-in",
+            "2 Onions, sliced and fried",
+            "1/2 cup Yogurt",
+            "2 tbsp Biryani masala",
+            "Saffron strands soaked in milk",
+            "Whole spices (Cardamom, Cloves, Cinnamon)",
+            "Mint and coriander leaves"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Vegetable Samosa (2 pcs)",
+        "calories": 300,
+        "prep_time_mins": 40,
+        "ingredients": [
+            "1 cup All-purpose flour",
+            "2 Potatoes, boiled and mashed",
+            "1/2 cup Green peas",
+            "1 tsp Cumin seeds",
+            "1 tsp Coriander powder",
+            "1/2 tsp Garam masala",
+            "Oil for frying",
+            "Salt to taste"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Matar Paneer",
+        "calories": 340,
+        "prep_time_mins": 30,
+        "ingredients": [
+            "200g Paneer cubes",
+            "1 cup Green peas (Matar)",
+            "2 Onions, pureed",
+            "2 Tomatoes, pureed",
+            "1 tbsp Ginger garlic paste",
+            "1 tsp Turmeric",
+            "1 tsp Garam masala",
+            "2 tbsp Cashew paste"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Rajma Chawal",
+        "calories": 420,
+        "prep_time_mins": 45,
+        "ingredients": [
+            "1 cup Kidney beans (Rajma), soaked and boiled",
+            "1 cup Basmati rice",
+            "2 Onions, chopped",
+            "2 Tomatoes, pureed",
+            "1 tbsp Ginger garlic paste",
+            "1 tsp Cumin seeds",
+            "1 tsp Rajma masala",
+            "Fresh cilantro"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Saag Aloo",
+        "calories": 250,
+        "prep_time_mins": 30,
+        "ingredients": [
+            "2 Potatoes, cubed",
+            "400g Spinach or Mustard greens",
+            "1 Onion, chopped",
+            "1 Tomato, chopped",
+            "1 tsp Mustard seeds",
+            "1 tsp Turmeric",
+            "1/2 tsp Chili powder",
+            "2 tbsp Oil"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Malai Kofta",
+        "calories": 480,
+        "prep_time_mins": 55,
+        "ingredients": [
+            "200g Paneer, grated",
+            "2 Potatoes, boiled and mashed",
+            "2 tbsp Cornstarch",
+            "1 Onion, paste",
+            "1/2 cup Tomato puree",
+            "1/4 cup Heavy cream",
+            "2 tbsp Cashew paste",
+            "Oil for frying koftas"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Tandoori Chicken",
+        "calories": 280,
+        "prep_time_mins": 45,
+        "ingredients": [
+            "500g Chicken, bone-in",
+            "1/2 cup Thick yogurt",
+            "2 tbsp Tandoori masala",
+            "1 tbsp Ginger garlic paste",
+            "1 tbsp Lemon juice",
+            "1 tsp Kashmiri red chili powder",
+            "1 tbsp Mustard oil",
+            "Salt to taste"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Fish Curry",
+        "calories": 320,
+        "prep_time_mins": 35,
+        "ingredients": [
+            "500g White fish fillets",
+            "1 Onion, chopped",
+            "2 Tomatoes, chopped",
+            "1 cup Coconut milk",
+            "1 tbsp Ginger garlic paste",
+            "1 tsp Mustard seeds",
+            "Curry leaves",
+            "1 tsp Turmeric"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Paneer Tikka",
+        "calories": 290,
+        "prep_time_mins": 30,
+        "ingredients": [
+            "250g Paneer cubes",
+            "1 Bell pepper, cubed",
+            "1 Onion, cubed",
+            "1/2 cup Yogurt",
+            "1 tbsp Tikka masala",
+            "1 tbsp Besan (Gram flour)",
+            "1 tbsp Lemon juice",
+            "Skewers"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Bhindi Masala (Okra)",
+        "calories": 180,
+        "prep_time_mins": 20,
+        "ingredients": [
+            "300g Okra (Bhindi), chopped",
+            "1 Onion, sliced",
+            "1 Tomato, chopped",
+            "1 tsp Amchur (Dry mango powder)",
+            "1 tsp Cumin seeds",
+            "1 tsp Turmeric",
+            "1/2 tsp Chili powder",
+            "2 tbsp Oil"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Baingan Bharta (Mashed Eggplant)",
+        "calories": 210,
+        "prep_time_mins": 35,
+        "ingredients": [
+            "1 large Eggplant (Baingan)",
+            "1 Onion, finely chopped",
+            "2 Tomatoes, chopped",
+            "2 Green chilies",
+            "1 tbsp Ginger garlic paste",
+            "1 tsp Cumin seeds",
+            "1 tsp Coriander powder",
+            "Fresh cilantro"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Dhokla",
+        "calories": 160,
+        "prep_time_mins": 25,
+        "ingredients": [
+            "1 cup Gram flour (Besan)",
+            "1/2 cup Yogurt",
+            "1 tsp Eno (Fruit salt)",
+            "1 tsp Sugar",
+            "1 tsp Mustard seeds",
+            "2 Green chilies, slit",
+            "Curry leaves",
+            "1 tbsp Oil"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Idli Sambar",
+        "calories": 240,
+        "prep_time_mins": 40,
+        "ingredients": [
+            "2 cups Idli batter (Rice and Urad dal)",
+            "1/2 cup Toor dal",
+            "Mixed vegetables (Carrot, Drumstick, Pumpkin)",
+            "2 tbsp Sambar powder",
+            "1 tsp Tamarind paste",
+            "1 tsp Mustard seeds",
+            "Curry leaves",
+            "Pinch of Asafoetida (Hing)"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Masala Dosa",
+        "calories": 350,
+        "prep_time_mins": 30,
+        "ingredients": [
+            "2 cups Dosa batter",
+            "2 Potatoes, boiled and mashed",
+            "1 Onion, sliced",
+            "1/2 tsp Mustard seeds",
+            "1/2 tsp Turmeric",
+            "Curry leaves",
+            "2 Green chilies",
+            "Ghee or Oil for cooking"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Vegetable Upma",
+        "calories": 220,
+        "prep_time_mins": 15,
+        "ingredients": [
+            "1 cup Semolina (Rava)",
+            "1 Onion, chopped",
+            "1/4 cup Green peas",
+            "1/4 cup Carrots, diced",
+            "1 tsp Mustard seeds",
+            "1 tsp Urad dal",
+            "Curry leaves",
+            "2 cups Boiling water"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Poha",
+        "calories": 250,
+        "prep_time_mins": 15,
+        "ingredients": [
+            "2 cups Flattened rice (Poha)",
+            "1 Onion, chopped",
+            "1 Potato, diced",
+            "2 tbsp Peanuts",
+            "1 tsp Mustard seeds",
+            "1 tsp Turmeric",
+            "Lemon juice",
+            "Fresh cilantro"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Aloo Paratha",
+        "calories": 330,
+        "prep_time_mins": 25,
+        "ingredients": [
+            "1 cup Whole wheat flour (Atta)",
+            "2 Potatoes, boiled and mashed",
+            "1/2 tsp Garam masala",
+            "1/2 tsp Amchur powder",
+            "1/2 tsp Carom seeds (Ajwain)",
+            "Green chilies, chopped",
+            "Ghee or Butter for roasting",
+            "Salt to taste"
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Kadhi Pakora",
+        "calories": 310,
+        "prep_time_mins": 40,
+        "ingredients": [
+            "1 cup Sour yogurt",
+            "3 tbsp Gram flour (Besan) for Kadhi",
+            "1/2 cup Besan for Pakoras",
+            "1 Onion, sliced",
+            "1 tsp Cumin seeds",
+            "1 tsp Turmeric",
+            "1/2 tsp Fenugreek seeds (Methi)",
+            "Pinch of Asafoetida (Hing)"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Pav Bhaji",
+        "calories": 400,
+        "prep_time_mins": 35,
+        "ingredients": [
+            "2 Potatoes, boiled",
+            "1/2 cup Green peas",
+            "1/2 cup Cauliflower",
+            "1 Capsicum, finely chopped",
+            "2 Onions, finely chopped",
+            "2 Tomatoes, pureed",
+            "2 tbsp Pav Bhaji masala",
+            "Pav (Bread rolls) and Butter"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Chicken Korma",
+        "calories": 520,
+        "prep_time_mins": 50,
+        "ingredients": [
+            "500g Chicken",
+            "1 large Onion, fried and pasted",
+            "1/2 cup Yogurt",
+            "1/4 cup Cashew/Almond paste",
+            "Whole spices (Cardamom, Cloves)",
+            "1 tbsp Ginger garlic paste",
+            "1 tsp Garam masala",
+            "1/2 cup Heavy cream"
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Mutton Rogan Josh",
+        "calories": 580,
+        "prep_time_mins": 80,
+        "ingredients": [
+            "500g Mutton/Lamb",
+            "2 Onions, finely chopped",
+            "1/2 cup Yogurt",
+            "2 tbsp Fennel powder",
+            "1 tbsp Dry ginger powder",
+            "1 tbsp Kashmiri red chili powder",
+            "Whole spices",
+            "3 tbsp Mustard oil"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Vegetable Jalfrezi",
+        "calories": 230,
+        "prep_time_mins": 25,
+        "ingredients": [
+            "1 cup Mixed bell peppers, sliced",
+            "1 cup Carrots and Beans, julienned",
+            "1 Onion, sliced",
+            "2 Tomatoes, chopped",
+            "1 tbsp Vinegar",
+            "1 tbsp Tomato ketchup",
+            "1 tsp Cumin powder",
+            "1 tsp Coriander powder"
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Keema Matar (Minced Meat with Peas)",
+        "calories": 450,
+        "prep_time_mins": 40,
+        "ingredients": [
+            "500g Minced meat (Mutton/Chicken)",
+            "1 cup Green peas",
+            "2 Onions, finely chopped",
+            "2 Tomatoes, pureed",
+            "1 tbsp Ginger garlic paste",
+            "1 tbsp Meat masala",
+            "1 tsp Turmeric",
+            "Fresh mint and cilantro"
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Mushroom Do Pyaza",
+        "calories": 260,
+        "prep_time_mins": 30,
+        "ingredients": [
+            "300g Button mushrooms",
+            "2 large Onions (1 chopped, 1 cubed)",
+            "2 Tomatoes, chopped",
+            "1 tbsp Ginger garlic paste",
+            "1 tsp Cumin seeds",
+            "1 tsp Garam masala",
+            "1/2 tsp Turmeric",
+            "2 tbsp Oil"
+        ]
+    }
+]
